@@ -1,9 +1,9 @@
 **Greetings!** I'm Yasu.
 I'm a 3d artist, Beat Saber player/mapper
-and beginner gamedev. 
+and junior gamedev. 
 
 Im currently learning C# and
-getting into Beat Saber modding.
+making my own game.
 
 If you want to contact me,
-my discord is Yasu#4645.
+my discord is @yasu3d.
