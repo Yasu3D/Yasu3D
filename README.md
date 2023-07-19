@@ -6,4 +6,4 @@ Im currently learning C# and
 making my own game.
 
 If you want to contact me,
-my discord is @yasu3d.
+[contact@yasu3d.art](mailto:contact@yasu3d.art)
