@@ -1,6 +1,6 @@
 **Greetings!** I'm Yasu.
 I'm a 3d artist, Beat Saber player/mapper
-and junior gamedev. 
+and gamedev. 
 
 Im currently learning C# and
 making my own game.
