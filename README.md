@@ -1,5 +1,5 @@
 **Greetings!** I'm Yasu.
-I'm a 3d artist, Beat Saber player/mapper
+I'm a 3d artist, rhythm game charter
 and gamedev. 
 
 Im currently learning C# and
